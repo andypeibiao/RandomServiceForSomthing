@@ -1,0 +1,2 @@
+# RandomServiceForSomthing
+各种服务返回对应的随机值
